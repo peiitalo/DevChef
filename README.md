@@ -20,7 +20,7 @@ O Livro foi iniciado com cinco receitas adicionadas e testadas pelo Jeferson, as
 - [Arroz dos Devs!](receitas/arroz.md)
 &nbsp;
 #### Receita 2
-
+- [Farofa Vegana!](receitas/farofa-vegana.md)
 &nbsp;
 #### Receita 3
 
